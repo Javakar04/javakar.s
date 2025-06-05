@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size:xx-large;
+    font-style: normal;
+    font: bolder;
+    color: rgb(248, 34, 5);
+    
+}
+h2{
+    text-align: center;
+    border: 1px solid white;
+    color: rgb(16, 227, 97);
+    padding: 20px;
+}
+p{
+    color: rgb(233, 74, 6);
+    font-size: x-large;
+}
+a:hover{
+    color: rgb(57, 195, 220);
+}
+a{
+    
+    background-color: rgba(27, 129, 22, 0.89);
+    font-style: inherit;
+    font-size:larger;
+    color: aliceblue;
+}
